@@ -58,7 +58,7 @@
 
 ## 🎒 Образование
 [<img src="diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Slaaacker/Slaaacker.github.io/refs/heads/main/diplom.png)
-[<img src="/certificate_en.png" width="590px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/Slaaacker/Slaaacker.github.io/refs/heads/main/certificate_en.png)
+[<img src="/certificate_en.png" width="500px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/Slaaacker/Slaaacker.github.io/refs/heads/main/certificate_en.png)
 
 <br>
 
